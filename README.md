@@ -1,0 +1,2 @@
+# Summarization
+采用Summarization的思想实现法律案件自动判决
